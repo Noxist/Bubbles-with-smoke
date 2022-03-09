@@ -1,0 +1,198 @@
+﻿id,jahr,alter,kategoriealter,geschlecht,bsz,bszkat,bszkat2,sorgen,sorgenkat,securemessenger,securemessengerkat,cookies,schutzmechanismen,cookiesoderschutz,smartphoneschlafen,smartphoneschlafenkat,verzicht,verzichtkat,geldeinewoche,geldeinewochekat
+1,2021,30,6,Maennlich,2h-3h,3,9,Stimmt ganz,1,Ja,1,Stimmt eher,Ja,1,Ja,1,Stimmt,1,20 CHF,1
+2,2021,15,2,Maennlich,4h-5h,5,25,Stimmt gar nicht,4,Nein,0,Stimmt gar nicht,Ja,1,Nein,4,Stimmt eher ,2,100 CHF,2
+3,2021,14,2,Maennlich,4h-5h,5,25,Stimmt eher,2,Nein,0,Stimmt gar nicht,Nein,0,Ja,1,Stimmt nicht,4,ueber 100 CHF,3
+4,2021,15,2,Maennlich,4h-5h,5,25,Stimmt eher,2,Ja,1,Stimmt ganz,Ja,1,Ja,1,Stimmt eher ,2,100 CHF,2
+5,2021,32,6,Maennlich,1h-2h,2,4,Stimmt ganz,1,Ja,1,Stimmt ganz,Ja,1,Ja,1,Stimmt eher nicht,3,ueber 100 CHF,3
+6,2021,16,3,Weiblich,2h-3h,3,9,Stimmt eher,2,Nein,0,Stimmt gar nicht,Ja,1,Nein,4,Stimmt,1,20 CHF,1
+7,2021,16,3,Maennlich,3h-4h,4,16,Stimmt eher nicht,3,Nein,0,Stimmt ganz,Ja,1,Ja,1,Stimmt eher ,2,ueber 100 CHF,3
+8,2021,16,3,Maennlich,4h-5h,5,25,Stimmt eher,2,Ja,1,Stimmt ganz,Ja,1,eher Nein,3,Stimmt,1,ueber 100 CHF,3
+9,2021,18,4,Maennlich,2h-3h,3,9,Stimmt eher nicht,3,Ja,1,Stimmt eher,Ja,1,eher Nein,3,Stimmt,1,5 CHF,1
+10,2021,18,4,Maennlich,Mehr als 5h,6,36,Stimmt eher nicht,3,Nein,0,Stimmt gar nicht,Ja,1,Ja,1,Stimmt,1,ueber 100 CHF,3
+11,2021,18,4,Maennlich,3h-4h,4,16,Stimmt eher nicht,3,Nein,0,Stimmt eher,Ja,1,eher Ja,2,Stimmt,1,100 CHF,2
+12,2021,16,3,Weiblich,4h-5h,5,25,Stimmt eher nicht,3,Nein,0,Stimmt gar nicht,Nein,0,eher Ja,2,Stimmt eher nicht,3,ueber 100 CHF,3
+13,2021,21,5,Maennlich,3h-4h,4,16,Stimmt eher nicht,3,Nein,0,Stimmt eher,Ja,1,eher Ja,2,Stimmt,1,Wuerde ich auch gratis machen,0
+14,2021,17,3,Maennlich,Mehr als 5h,6,36,Stimmt eher nicht,3,Nein,0,Stimmt gar nicht,Ja,1,Ja,1,Stimmt eher nicht,3,100 CHF,2
+15,2021,20,5,Weiblich,1h-2h,2,4,Stimmt eher,2,Nein,0,Stimmt eher,Ja,1,eher Ja,2,Stimmt,1,Wuerde ich auch gratis machen,0
+16,2021,16,3,Weiblich,2h-3h,3,9,Stimmt eher nicht,3,Nein,0,Stimmt eher nicht,Ja,1,eher Nein,3,Stimmt,1,Wuerde ich auch gratis machen,0
+17,2021,17,3,Maennlich,Mehr als 5h,6,36,Stimmt eher,2,Ja,1,Stimmt eher,Ja,1,eher Ja,2,Stimmt,1,Wuerde ich auch gratis machen,0
+18,2021,16,3,Maennlich,2h-3h,3,9,Stimmt eher nicht,3,Nein,0,Stimmt gar nicht,Ja,1,eher Nein,3,Stimmt,1,10 CHF,1
+19,2021,19,4,Weiblich,4h-5h,5,25,Stimmt eher,2,Ja,1,Stimmt ganz,Ja,1,eher Ja,2,Stimmt,1,ueber 100 CHF,3
+20,2021,16,3,Weiblich,2h-3h,3,9,Stimmt eher,2,Nein,0,Stimmt eher,Ja,1,Ja,1,Stimmt,1,Wuerde ich auch gratis machen,0
+21,2021,18,4,Weiblich,3h-4h,4,16,Stimmt eher,2,Nein,0,Stimmt eher nicht,Nein,0,Nein,4,Stimmt nicht,4,ueber 100 CHF,3
+22,2021,20,5,Weiblich,3h-4h,4,16,Stimmt eher,2,Nein,0,Stimmt gar nicht,Nein,0,Ja,1,Stimmt,1,Wuerde ich auch gratis machen,0
+23,2021,17,3,Weiblich,1h-2h,2,4,Stimmt eher,2,Nein,0,Stimmt eher,Ja,1,Nein,4,Stimmt,1,Wuerde ich auch gratis machen,0
+24,2021,42,6,Maennlich,weniger als 1h,1,1,Stimmt eher,2,Ja,1,Stimmt eher nicht,Ja,1,eher Nein,3,Stimmt eher ,2,Wuerde ich auch gratis machen,0
+25,2021,18,4,Maennlich,2h-3h,3,9,Stimmt gar nicht,4,Nein,0,Stimmt gar nicht,Ja,1,Ja,1,Stimmt nicht,4,ueber 100 CHF,3
+26,2021,16,3,Maennlich,2h-3h,3,9,Stimmt eher nicht,3,Nein,0,Stimmt eher nicht,Ja,1,Nein,4,Stimmt,1,ueber 100 CHF,3
+27,2021,17,3,Weiblich,2h-3h,3,9,Stimmt eher,2,Nein,0,Stimmt eher nicht,Ja,1,Ja,1,Stimmt,1,Wuerde ich auch gratis machen,0
+28,2021,18,4,Maennlich,2h-3h,3,9,Stimmt eher nicht,3,Nein,0,Stimmt eher,Ja,1,eher Ja,2,Stimmt eher ,2,Wuerde ich auch gratis machen,0
+29,2021,16,3,Maennlich,Mehr als 5h,6,36,Stimmt eher nicht,3,Nein,0,Stimmt gar nicht,Ja,1,eher Ja,2,Stimmt eher ,2,ueber 100 CHF,3
+30,2021,16,3,Weiblich,3h-4h,4,16,Stimmt eher nicht,3,Nein,0,Stimmt gar nicht,Nein,0,Ja,1,Stimmt eher nicht,3,ueber 100 CHF,3
+31,2021,17,3,Weiblich,Mehr als 5h,6,36,Stimmt eher nicht,3,Nein,0,Stimmt gar nicht,Nein,0,Ja,1,Stimmt eher ,2,100 CHF,2
+32,2021,17,3,Weiblich,1h-2h,2,4,Stimmt eher,2,Ja,1,Stimmt gar nicht,Ja,1,eher Nein,3,Stimmt,1,20 CHF,1
+33,2021,16,3,Weiblich,3h-4h,4,16,Stimmt eher,2,Nein,0,Stimmt gar nicht,Nein,0,Ja,1,Stimmt eher nicht,3,ueber 100 CHF,3
+34,2021,17,3,Maennlich,2h-3h,3,9,Stimmt eher nicht,3,Nein,0,Stimmt gar nicht,Ja,1,eher Ja,2,Stimmt eher nicht,3,ueber 100 CHF,3
+35,2021,16,3,Maennlich,4h-5h,5,25,Stimmt eher nicht,3,Nein,0,Stimmt eher nicht,Ja,1,Ja,1,Stimmt eher ,2,100 CHF,2
+36,2021,16,3,Maennlich,3h-4h,4,16,Stimmt gar nicht,4,Nein,0,Stimmt gar nicht,Nein,0,Ja,1,Stimmt,1,ueber 100 CHF,3
+37,2021,15,2,Maennlich,1h-2h,2,4,Stimmt eher nicht,3,Nein,0,Stimmt gar nicht,Ja,1,eher Ja,2,Stimmt eher ,2,50 CHF,2
+38,2021,16,3,Weiblich,2h-3h,3,9,Stimmt eher nicht,3,Nein,0,Stimmt eher nicht,Nein,0,Nein,4,Stimmt eher nicht,3,ueber 100 CHF,3
+39,2021,17,3,Maennlich,3h-4h,4,16,Stimmt ganz,1,Nein,0,Stimmt eher nicht,Ja,1,eher Ja,2,Stimmt,1,Wuerde ich auch gratis machen,0
+40,2021,19,4,Maennlich,3h-4h,4,16,Stimmt gar nicht,4,Nein,0,Stimmt ganz,Ja,1,Ja,1,Stimmt eher nicht,3,ueber 100 CHF,3
+41,2021,16,3,Weiblich,3h-4h,4,16,Stimmt eher nicht,3,Nein,0,Stimmt eher nicht,Ja,1,Nein,4,Stimmt nicht,4,ueber 100 CHF,3
+42,2021,16,3,Maennlich,2h-3h,3,9,Stimmt eher,2,Nein,0,Stimmt eher nicht,Ja,1,eher Ja,2,Stimmt eher ,2,ueber 100 CHF,3
+43,2021,16,3,Weiblich,Mehr als 5h,6,36,Stimmt eher nicht,3,Nein,0,Stimmt gar nicht,Ja,1,Ja,1,Stimmt nicht,4,ueber 100 CHF,3
+44,2021,17,3,Weiblich,Mehr als 5h,6,36,Stimmt eher,2,Nein,0,Stimmt gar nicht,Ja,1,eher Ja,2,Stimmt,1,Wuerde ich auch gratis machen,0
+45,2021,17,3,Maennlich,4h-5h,5,25,Stimmt eher nicht,3,Nein,0,Stimmt gar nicht,Ja,1,Ja,1,Stimmt eher ,2,ueber 100 CHF,3
+46,2021,15,2,Maennlich,4h-5h,5,25,Stimmt eher,2,Nein,0,Stimmt gar nicht,Ja,1,eher Ja,2,Stimmt,1,Wuerde ich auch gratis machen,0
+47,2021,16,3,Weiblich,Mehr als 5h,6,36,Stimmt ganz,1,Nein,0,Stimmt ganz,Ja,1,eher Nein,3,Stimmt eher ,2,Wuerde ich auch gratis machen,0
+48,2021,16,3,Non-Binaer,Mehr als 5h,6,36,Stimmt eher nicht,3,Nein,0,Stimmt gar nicht,Nein,0,Ja,1,Stimmt nicht,4,ueber 100 CHF,3
+49,2021,22,5,Maennlich,2h-3h,3,9,Stimmt eher,2,Nein,0,Stimmt eher,Ja,1,eher Nein,3,Stimmt eher ,2,50 CHF,2
+50,2021,14,2,Weiblich,Mehr als 5h,6,36,Stimmt gar nicht,4,Nein,0,Stimmt gar nicht,Ja,1,eher Ja,2,Stimmt eher ,2,20 CHF,1
+51,2021,16,3,Weiblich,2h-3h,3,9,Stimmt eher,2,Nein,0,Stimmt eher,Ja,1,Ja,1,Stimmt eher nicht,3,100 CHF,2
+52,2021,17,3,Maennlich,1h-2h,2,4,Stimmt eher nicht,3,Nein,0,Stimmt eher nicht,Ja,1,Ja,1,Stimmt,1,100 CHF,2
+53,2021,18,4,Maennlich,Mehr als 5h,6,36,Stimmt gar nicht,4,Nein,0,Stimmt eher nicht,Ja,1,Ja,1,Stimmt eher nicht,3,ueber 100 CHF,3
+54,2021,17,3,Maennlich,2h-3h,3,9,Stimmt eher nicht,3,Nein,0,Stimmt eher,Ja,1,Ja,1,Stimmt eher ,2,20 CHF,1
+55,2021,51,6,Weiblich,3h-4h,4,16,Stimmt ganz,1,Ja,1,Stimmt eher,Ja,1,eher Ja,2,Stimmt eher ,2,Wuerde ich auch gratis machen,0
+56,2021,55,6,Maennlich,weniger als 1h,1,1,Stimmt eher,2,Nein,0,Stimmt ganz,Ja,1,eher Nein,3,Stimmt eher nicht,3,ueber 100 CHF,3
+57,2021,16,3,Maennlich,1h-2h,2,4,Stimmt eher,2,Nein,0,Stimmt eher nicht,Ja,1,eher Ja,2,Stimmt,1,50 CHF,2
+58,2021,15,2,Maennlich,3h-4h,4,16,Stimmt gar nicht,4,Nein,0,Stimmt gar nicht,Ja,1,eher Nein,3,Stimmt eher ,2,100 CHF,2
+59,2021,16,3,Maennlich,3h-4h,4,16,Stimmt eher nicht,3,Nein,0,Stimmt ganz,Ja,1,eher Ja,2,Stimmt,1,20 CHF,1
+60,2021,16,3,Weiblich,1h-2h,2,4,Stimmt eher,2,Nein,0,Stimmt eher nicht,Ja,1,Nein,4,Stimmt eher ,2,Wuerde ich auch gratis machen,0
+61,2021,15,2,Weiblich,1h-2h,2,4,Stimmt eher,2,Nein,0,Stimmt eher,Nein,1,eher Ja,2,Stimmt,1,10 CHF,1
+62,2021,17,3,Maennlich,3h-4h,4,16,Stimmt eher,2,Nein,0,Stimmt eher,Ja,1,eher Ja,2,Stimmt eher ,2,20 CHF,1
+63,2021,15,2,Maennlich,2h-3h,3,9,Stimmt ganz,1,Nein,0,Stimmt ganz,Ja,1,eher Ja,2,Stimmt,1,Wuerde ich auch gratis machen,0
+64,2021,14,2,Maennlich,3h-4h,4,16,Stimmt gar nicht,4,Nein,0,Stimmt gar nicht,Ja,1,eher Ja,2,Stimmt eher ,2,50 CHF,2
+65,2021,47,6,Maennlich,1h-2h,2,4,Stimmt eher,2,Ja,1,Stimmt eher,Nein,1,Nein,4,Stimmt eher nicht,3,Wuerde ich auch gratis machen,0
+66,2021,15,2,Maennlich,Mehr als 5h,6,36,Stimmt eher nicht,3,Nein,0,Stimmt gar nicht,Nein,0,eher Ja,2,Stimmt eher ,2,50 CHF,2
+67,2021,14,2,Weiblich,1h-2h,2,4,Stimmt eher nicht,3,Ja,1,Stimmt gar nicht,Nein,0,Nein,4,Stimmt,1,50 CHF,2
+68,2021,39,6,Maennlich,1h-2h,2,4,Stimmt eher,2,Nein,0,Stimmt gar nicht,Nein,0,eher Ja,2,Stimmt eher nicht,3,Wuerde ich auch gratis machen,0
+69,2021,15,2,Weiblich,4h-5h,5,25,Stimmt eher nicht,3,Nein,0,Stimmt gar nicht,Nein,0,Ja,1,Stimmt,1,100 CHF,2
+70,2021,49,6,Maennlich,2h-3h,3,9,Stimmt eher,2,Nein,0,Stimmt ganz,Ja,1,eher Nein,3,Stimmt,1,100 CHF,2
+71,2021,18,4,Maennlich,3h-4h,4,16,Stimmt eher,2,Ja,1,Stimmt eher,Ja,1,eher Ja,2,Stimmt eher ,2,20 CHF,1
+72,2021,15,2,Weiblich,2h-3h,3,9,Stimmt eher,2,Nein,0,Stimmt eher nicht,Nein,0,eher Ja,2,Stimmt,1,Wuerde ich auch gratis machen,0
+73,2021,27,5,Weiblich,weniger als 1h,1,1,Stimmt eher,2,Ja,1,Stimmt eher nicht,Ja,1,eher Ja,2,Stimmt,1,Wuerde ich auch gratis machen,0
+74,2021,29,5,Weiblich,1h-2h,2,4,Stimmt eher,2,Nein,0,Stimmt gar nicht,Nein,0,Ja,1,Stimmt eher nicht,3,ueber 100 CHF,3
+75,2021,15,2,Weiblich,1h-2h,2,4,Stimmt ganz,1,Nein,0,Stimmt eher nicht,Ja,1,eher Ja,2,Stimmt eher ,2,Wuerde ich auch gratis machen,0
+76,2021,46,6,Maennlich,1h-2h,2,4,Stimmt eher,2,Ja,1,Stimmt eher,Nein,1,eher Ja,2,Stimmt,1,Wuerde ich auch gratis machen,0
+77,2021,16,3,Maennlich,3h-4h,4,16,Stimmt eher nicht,3,Nein,0,Stimmt eher nicht,Ja,1,Nein,4,Stimmt eher ,2,50 CHF,2
+78,2021,19,4,Maennlich,2h-3h,3,9,Stimmt ganz,1,Nein,0,Stimmt eher,Ja,1,eher Nein,3,Stimmt eher ,2,50 CHF,2
+79,2021,50,6,Weiblich,2h-3h,3,9,Stimmt eher nicht,3,Nein,0,Stimmt eher,Ja,1,Ja,1,Stimmt nicht,4,ueber 100 CHF,3
+80,2021,50,6,Weiblich,weniger als 1h,1,1,Stimmt ganz,1,Nein,0,Stimmt eher nicht,Ja,1,Ja,1,Stimmt eher nicht,3,ueber 100 CHF,3
+81,2021,52,6,Weiblich,1h-2h,2,4,Stimmt ganz,1,Nein,0,Stimmt ganz,Ja,1,eher Ja,2,Stimmt eher nicht,3,Wuerde ich auch gratis machen,0
+82,2021,53,6,Weiblich,1h-2h,2,4,Stimmt eher nicht,3,Nein,0,Stimmt eher nicht,Nein,0,Ja,1,Stimmt,1,50 CHF,2
+83,2021,50,6,Maennlich,1h-2h,2,4,Stimmt eher,2,Ja,1,Stimmt gar nicht,Ja,1,Ja,1,Stimmt nicht,4,ueber 100 CHF,3
+84,2021,38,6,Weiblich,3h-4h,4,16,Stimmt eher,2,Nein,0,Stimmt eher,Nein,1,eher Ja,2,Stimmt eher ,2,ueber 100 CHF,3
+85,2021,15,2,Weiblich,4h-5h,5,25,Stimmt eher,2,Nein,0,Stimmt eher,Ja,1,Nein,4,Stimmt,1,50 CHF,2
+86,2021,41,6,Maennlich,2h-3h,3,9,Stimmt eher,2,Ja,1,Stimmt ganz,Ja,1,eher Ja,2,Stimmt,1,ueber 100 CHF,3
+87,2021,25,5,Weiblich,weniger als 1h,1,1,Stimmt eher,2,Nein,0,Stimmt eher nicht,Ja,1,eher Ja,2,Stimmt,1,Wuerde ich auch gratis machen,0
+88,2021,42,6,Weiblich,1h-2h,2,4,Stimmt eher,2,Nein,0,Stimmt gar nicht,Nein,0,eher Nein,3,Stimmt eher ,2,100 CHF,2
+89,2021,43,6,Weiblich,1h-2h,2,4,Stimmt ganz,1,Ja,1,Stimmt ganz,Ja,1,Ja,1,Stimmt,1,Wuerde ich auch gratis machen,0
+90,2021,46,6,Maennlich,weniger als 1h,1,1,Stimmt eher,2,Nein,0,Stimmt eher,Ja,1,Ja,1,Stimmt eher ,2,Wuerde ich auch gratis machen,0
+91,2021,47,6,Weiblich,1h-2h,2,4,Stimmt ganz,1,Nein,0,Stimmt eher nicht,Ja,1,Nein,4,Stimmt eher nicht,3,50 CHF,2
+92,2021,52,6,Weiblich,weniger als 1h,1,1,Stimmt eher,2,Nein,0,Stimmt gar nicht,Nein,0,Ja,1,Stimmt,1,Wuerde ich auch gratis machen,0
+93,2021,17,3,Maennlich,Mehr als 5h,6,36,Stimmt ganz,1,Nein,0,Stimmt eher nicht,Ja,1,eher Ja,2,Stimmt,1,Wuerde ich auch gratis machen,0
+94,2021,29,5,Weiblich,1h-2h,2,4,Stimmt eher nicht,3,Ja,1,Stimmt eher nicht,Ja,1,Nein,4,Stimmt eher nicht,3,100 CHF,2
+95,2021,56,6,Maennlich,weniger als 1h,1,1,Stimmt eher,2,Nein,0,Stimmt eher nicht,Nein,0,Nein,4,Stimmt eher ,2,Wuerde ich auch gratis machen,0
+96,2021,26,5,Weiblich,2h-3h,3,9,Stimmt eher,2,Ja,1,Stimmt eher nicht,Ja,1,Ja,1,Stimmt eher ,2,100 CHF,2
+97,2021,16,3,Maennlich,4h-5h,5,25,Stimmt eher nicht,3,Nein,0,Stimmt gar nicht,Nein,0,Ja,1,Stimmt,1,Wuerde ich auch gratis machen,0
+98,2021,15,2,Weiblich,1h-2h,2,4,Stimmt gar nicht,4,Ja,1,Stimmt gar nicht,Nein,0,Ja,1,Stimmt eher nicht,3,100 CHF,2
+99,2021,16,3,Weiblich,2h-3h,3,9,Stimmt ganz,1,Nein,0,Stimmt ganz,Ja,1,eher Ja,2,Stimmt,1,50 CHF,2
+100,2021,15,2,Maennlich,1h-2h,2,4,Stimmt eher nicht,3,Nein,0,Stimmt eher nicht,Ja,1,Ja,1,Stimmt,1,Wuerde ich auch gratis machen,0
+101,2021,16,3,Maennlich,4h-5h,5,25,Stimmt eher nicht,3,Nein,0,Stimmt gar nicht,Ja,1,Ja,1,Stimmt eher ,2,ueber 100 CHF,3
+102,2021,15,2,Maennlich,3h-4h,4,16,Stimmt eher,2,Ja,1,Stimmt gar nicht,Nein,0,eher Ja,2,Stimmt,1,Wuerde ich auch gratis machen,0
+103,2021,16,3,Weiblich,Mehr als 5h,6,36,Stimmt eher nicht,3,Nein,0,Stimmt gar nicht,Nein,0,Ja,1,Stimmt,1,Wuerde ich auch gratis machen,0
+104,2021,16,3,Maennlich,3h-4h,4,16,Stimmt gar nicht,4,Nein,0,Stimmt gar nicht,Ja,1,eher Nein,3,Stimmt eher nicht,3,50 CHF,2
+105,2021,15,2,Maennlich,2h-3h,3,9,Stimmt eher nicht,3,Ja,1,Stimmt ganz,Nein,1,Nein,4,Stimmt,1,ueber 100 CHF,3
+106,2021,16,3,Weiblich,Mehr als 5h,6,36,Stimmt eher,2,Nein,0,Stimmt eher,Nein,1,eher Nein,3,Stimmt,1,50 CHF,2
+107,2021,16,3,Weiblich,4h-5h,5,25,Stimmt ganz,1,Nein,0,Stimmt gar nicht,Ja,1,Nein,4,Stimmt eher nicht,3,ueber 100 CHF,3
+108,2021,16,3,Maennlich,2h-3h,3,9,Stimmt eher nicht,3,Nein,0,Stimmt eher nicht,Ja,1,Ja,1,Stimmt eher nicht,3,100 CHF,2
+109,2021,16,3,Maennlich,1h-2h,2,4,Stimmt eher nicht,3,Nein,0,Stimmt eher,Nein,1,Ja,1,Stimmt eher nicht,3,Wuerde ich auch gratis machen,0
+110,2021,15,2,Weiblich,2h-3h,3,9,Stimmt eher nicht,3,Nein,0,Stimmt gar nicht,Nein,0,eher Nein,3,Stimmt eher ,2,ueber 100 CHF,3
+111,2021,16,3,Weiblich,3h-4h,4,16,Stimmt eher nicht,3,Nein,0,Stimmt gar nicht,Nein,0,Ja,1,Stimmt,1,100 CHF,2
+112,2021,16,3,Weiblich,2h-3h,3,9,Stimmt eher nicht,3,Nein,0,Stimmt eher nicht,Ja,1,eher Ja,2,Stimmt eher nicht,3,Wuerde ich auch gratis machen,0
+113,2021,15,2,Maennlich,Mehr als 5h,6,36,Stimmt eher nicht,3,Nein,0,Stimmt eher nicht,Ja,1,Ja,1,Stimmt eher nicht,3,ueber 100 CHF,3
+114,2021,15,2,Maennlich,Mehr als 5h,6,36,Stimmt eher nicht,3,Nein,0,Stimmt gar nicht,Ja,1,Ja,1,Stimmt,1,20 CHF,1
+115,2021,16,3,Maennlich,2h-3h,3,9,Stimmt eher nicht,3,Nein,0,Stimmt gar nicht,Nein,0,Ja,1,Stimmt,1,50 CHF,2
+116,2021,16,3,Weiblich,2h-3h,3,9,Stimmt eher nicht,3,Nein,0,Stimmt eher nicht,Nein,0,eher Ja,2,Stimmt,1,ueber 100 CHF,3
+117,2021,15,2,Weiblich,3h-4h,4,16,Stimmt eher nicht,3,Nein,0,Stimmt eher nicht,Ja,1,eher Ja,2,Stimmt eher ,2,100 CHF,2
+118,2021,15,2,Maennlich,3h-4h,4,16,Stimmt eher,2,Nein,0,Stimmt eher nicht,Ja,1,eher Ja,2,Stimmt eher nicht,3,ueber 100 CHF,3
+119,2021,16,3,Maennlich,2h-3h,3,9,Stimmt eher,2,Ja,1,Stimmt gar nicht,Ja,1,eher Ja,2,Stimmt eher ,2,50 CHF,2
+120,2021,15,2,Weiblich,3h-4h,4,16,Stimmt eher,2,Nein,0,Stimmt gar nicht,Nein,0,Nein,4,Stimmt,1,Wuerde ich auch gratis machen,0
+121,2021,14,2,Weiblich,1h-2h,2,4,Stimmt eher nicht,3,Nein,0,Stimmt eher nicht,Nein,0,eher Nein,3,Stimmt,1,100 CHF,2
+122,2021,15,2,Weiblich,Mehr als 5h,6,36,Stimmt gar nicht,4,Nein,0,Stimmt gar nicht,Nein,0,eher Ja,2,Stimmt,1,ueber 100 CHF,3
+123,2021,17,3,Maennlich,3h-4h,4,16,Stimmt eher nicht,3,Nein,0,Stimmt ganz,Ja,1,Nein,4,Stimmt,1,Wuerde ich auch gratis machen,0
+124,2021,16,3,Weiblich,3h-4h,4,16,Stimmt eher nicht,3,Ja,1,Stimmt eher nicht,Nein,0,Ja,1,Stimmt eher ,2,ueber 100 CHF,3
+125,2021,14,2,Weiblich,3h-4h,4,16,Stimmt eher,2,Nein,0,Stimmt eher nicht,Nein,0,Nein,4,Stimmt eher ,2,ueber 100 CHF,3
+126,2022,15,2,Weiblich,2h-3h,3,9,Stimmt eher nicht,3,Nein,0,Stimmt eher nicht,Nein,0,Ja,1,Stimmt eher nicht,3,ueber 100 CHF,3
+127,2022,16,3,Maennlich,2h-3h,3,9,Stimmt eher nicht,3,Nein,0,Stimmt eher,Ja,1,eher Nein,3,Stimmt eher ,2,Wuerde ich auch gratis machen,0
+128,2022,16,3,Weiblich,4h-5h,5,25,Stimmt eher nicht,3,Ja,1,Stimmt gar nicht,Ja,1,Ja,1,Stimmt,1,Wuerde ich auch gratis machen,0
+129,2022,16,3,Maennlich,3h-4h,4,16,Stimmt eher,2,Ja,1,Stimmt eher nicht,Ja,1,Nein,4,Stimmt eher nicht,3,ueber 100 CHF,3
+130,2022,17,3,null,3h-4h,4,16,Stimmt eher,2,Ja,1,Stimmt eher nicht,Ja,1,Ja,1,Stimmt eher ,2,ueber 100 CHF,3
+131,2022,16,3,Maennlich,2h-3h,3,9,Stimmt eher nicht,3,Nein,0,Stimmt gar nicht,Ja,1,eher Ja,2,Stimmt,1,100 CHF,2
+132,2022,16,3,Maennlich,4h-5h,5,25,Stimmt eher,2,Nein,0,Stimmt eher nicht,Ja,1,Ja,1,Stimmt,1,5 CHF,1
+133,2022,17,3,Weiblich,1h-2h,2,4,Stimmt eher nicht,3,Ja,1,Stimmt gar nicht,Nein,0,Ja,1,Stimmt,1,ueber 100 CHF,3
+134,2022,15,2,Weiblich,2h-3h,3,9,Stimmt eher,2,Nein,0,Stimmt gar nicht,Nein,0,Ja,1,Stimmt eher nicht,3,ueber 100 CHF,3
+135,2022,15,2,Weiblich,2h-3h,3,9,Stimmt eher nicht,3,Nein,0,Stimmt gar nicht,Ja,1,eher Ja,2,Stimmt eher nicht,3,ueber 100 CHF,3
+136,2022,17,3,Maennlich,2h-3h,3,9,Stimmt ganz,1,Nein,0,Stimmt eher nicht,Ja,1,Ja,1,Stimmt eher nicht,3,100 CHF,2
+137,2022,19,4,Non-Binaer,4h-5h,5,25,Stimmt eher nicht,3,Ja,1,Stimmt gar nicht,Ja,1,eher Ja,2,Stimmt nicht,4,ueber 100 CHF,3
+138,2022,16,3,Non-Binaer,3h-4h,4,16,Stimmt eher nicht,3,Ja,1,Stimmt eher,Ja,1,eher Ja,2,Stimmt eher ,2,Wuerde ich auch gratis machen,0
+139,2022,15,2,Weiblich,4h-5h,5,25,Stimmt eher nicht,3,Nein,0,Stimmt eher nicht,Nein,0,Ja,1,Stimmt eher nicht,3,ueber 100 CHF,3
+140,2022,14,2,Non-Binaer,Mehr als 5h,6,36,Stimmt eher nicht,3,Nein,0,Stimmt gar nicht,Nein,0,Ja,1,Stimmt nicht,4,ueber 100 CHF,3
+141,2022,14,2,Weiblich,3h-4h,4,16,Stimmt eher,2,Nein,0,Stimmt ganz,Nein,1,eher Ja,2,Stimmt eher nicht,3,ueber 100 CHF,3
+142,2022,15,2,Weiblich,3h-4h,4,16,Stimmt eher,2,Nein,0,Stimmt eher,Ja,1,Ja,1,Stimmt,1,50 CHF,2
+143,2022,14,2,Weiblich,3h-4h,4,16,Stimmt eher,2,Nein,0,Stimmt gar nicht,Nein,0,Ja,1,Stimmt eher ,2,ueber 100 CHF,3
+144,2022,15,2,Weiblich,3h-4h,4,16,Stimmt eher,2,Nein,0,Stimmt gar nicht,Ja,1,eher Nein,3,Stimmt eher nicht,3,ueber 100 CHF,3
+145,2022,56,6,Maennlich,Mehr als 5h,6,36,Stimmt eher,2,Ja,1,Stimmt ganz,Ja,1,eher Ja,2,Stimmt,1,50 CHF,2
+146,2022,15,2,Maennlich,2h-3h,3,9,Stimmt gar nicht,4,Nein,0,Stimmt eher,Nein,1,eher Ja,2,Stimmt,1,ueber 100 CHF,3
+147,2022,15,2,Maennlich,Mehr als 5h,6,36,Stimmt eher,2,Nein,0,Stimmt gar nicht,Ja,1,Nein,4,Stimmt eher ,2,ueber 100 CHF,3
+148,2022,15,2,Maennlich,3h-4h,4,16,Stimmt eher nicht,3,Ja,1,Stimmt eher nicht,Ja,1,eher Nein,3,Stimmt eher ,2,20 CHF,1
+149,2022,15,2,Maennlich,1h-2h,2,4,Stimmt eher nicht,3,Nein,0,Stimmt gar nicht,Nein,0,eher Nein,3,Stimmt,1,100 CHF,2
+150,2022,15,2,null,1h-2h,2,4,Stimmt eher,2,Nein,0,Stimmt eher nicht,Ja,1,Ja,1,Stimmt,1,100 CHF,2
+151,2022,15,2,Weiblich,1h-2h,2,4,Stimmt eher,2,Nein,0,Stimmt gar nicht,Nein,0,Nein,4,Stimmt,1,Wuerde ich auch gratis machen,0
+152,2022,15,2,Weiblich,2h-3h,3,9,Stimmt eher,2,Nein,0,Stimmt gar nicht,Nein,0,Nein,4,Stimmt,1,5 CHF,1
+153,2022,14,2,Maennlich,Mehr als 5h,6,36,Stimmt gar nicht,4,Nein,0,Stimmt gar nicht,Ja,1,Ja,1,Stimmt,1,ueber 100 CHF,3
+154,2022,15,2,Weiblich,2h-3h,3,9,Stimmt eher,2,Ja,1,Stimmt gar nicht,Nein,0,eher Nein,3,Stimmt,1,Wuerde ich auch gratis machen,0
+155,2022,15,2,Weiblich,3h-4h,4,16,Stimmt eher,2,Nein,0,Stimmt eher,Nein,1,eher Ja,2,Stimmt,1,10 CHF,1
+156,2022,15,2,Maennlich,1h-2h,2,4,Stimmt eher nicht,3,Nein,0,Stimmt gar nicht,Ja,1,Nein,4,Stimmt eher nicht,3,100 CHF,2
+157,2022,15,2,Weiblich,4h-5h,5,25,Stimmt eher,2,Nein,0,Stimmt eher,Ja,1,Ja,1,Stimmt,1,100 CHF,2
+158,2022,15,2,Maennlich,1h-2h,2,4,Stimmt eher,2,Ja,1,Stimmt ganz,Ja,1,Ja,1,Stimmt eher ,2,ueber 100 CHF,3
+159,2022,16,3,Weiblich,3h-4h,4,16,Stimmt ganz,1,Nein,0,Stimmt gar nicht,Ja,1,Ja,1,Stimmt eher nicht,3,ueber 100 CHF,3
+160,2022,16,3,Weiblich,3h-4h,4,16,Stimmt eher,2,Nein,0,Stimmt eher nicht,Nein,0,eher Ja,2,Stimmt,1,Wuerde ich auch gratis machen,0
+161,2022,16,3,Weiblich,Mehr als 5h,6,36,Stimmt eher nicht,3,Nein,0,Stimmt eher nicht,Nein,0,Ja,1,Stimmt nicht,4,ueber 100 CHF,3
+162,2022,15,2,Weiblich,3h-4h,4,16,Stimmt eher,2,Nein,0,Stimmt gar nicht,Nein,0,eher Ja,2,Stimmt,1,Wuerde ich auch gratis machen,0
+163,2022,14,2,Weiblich,2h-3h,3,9,Stimmt eher nicht,3,Nein,0,Stimmt eher nicht,Ja,1,Ja,1,Stimmt,1,ueber 100 CHF,3
+164,2022,16,3,Weiblich,Mehr als 5h,6,36,Stimmt eher,2,Nein,0,Stimmt ganz,Ja,1,Ja,1,Stimmt,1,Wuerde ich auch gratis machen,0
+165,2022,16,3,Weiblich,2h-3h,3,9,Stimmt ganz,1,Nein,0,Stimmt gar nicht,Ja,1,eher Ja,2,Stimmt,1,ueber 100 CHF,3
+166,2022,16,3,Maennlich,3h-4h,4,16,Stimmt eher nicht,3,Nein,0,Stimmt gar nicht,Nein,0,Ja,1,Stimmt eher ,2,50 CHF,2
+167,2022,16,3,Maennlich,4h-5h,5,25,Stimmt eher nicht,3,Nein,0,Stimmt gar nicht,Ja,1,Ja,1,Stimmt eher nicht,3,100 CHF,2
+168,2022,16,3,Maennlich,2h-3h,3,9,Stimmt eher nicht,3,Nein,0,Stimmt eher nicht,Nein,0,Nein,4,Stimmt,1,50 CHF,2
+169,2022,16,3,Maennlich,1h-2h,2,4,Stimmt eher,2,Nein,0,Stimmt eher nicht,Nein,0,eher Ja,2,Stimmt,1,Wuerde ich auch gratis machen,0
+170,2022,15,2,Weiblich,3h-4h,4,16,Stimmt eher nicht,3,Nein,0,Stimmt gar nicht,Nein,0,Nein,4,Stimmt,1,ueber 100 CHF,3
+171,2022,16,3,Maennlich,3h-4h,4,16,Stimmt eher nicht,3,Nein,0,Stimmt ganz,Ja,1,eher Nein,3,Stimmt eher ,2,ueber 100 CHF,3
+172,2022,16,3,Maennlich,3h-4h,4,16,Stimmt eher,2,Nein,0,Stimmt gar nicht,Nein,0,eher Ja,2,Stimmt,1,5 CHF,1
+173,2022,35,6,Weiblich,Mehr als 5h,6,36,Stimmt eher,2,Nein,0,Stimmt gar nicht,Nein,0,Ja,1,Stimmt eher nicht,3,Wuerde ich auch gratis machen,0
+174,2022,17,3,Maennlich,3h-4h,4,16,Stimmt eher,2,Nein,0,Stimmt gar nicht,Ja,1,Ja,1,Stimmt eher ,2,Wuerde ich auch gratis machen,0
+175,2022,16,3,Maennlich,1h-2h,2,4,Stimmt eher,2,Ja,1,Stimmt ganz,Ja,1,Nein,4,Stimmt,1,Wuerde ich auch gratis machen,0
+176,2022,17,3,Maennlich,2h-3h,3,9,Stimmt gar nicht,4,Nein,0,Stimmt gar nicht,Nein,0,eher Nein,3,Stimmt nicht,4,Wuerde ich auch gratis machen,0
+177,2022,16,3,Maennlich,Mehr als 5h,6,36,Stimmt eher nicht,3,Nein,0,Stimmt eher,Ja,1,Ja,1,Stimmt,1,Wuerde ich auch gratis machen,0
+178,2022,16,3,Weiblich,2h-3h,3,9,Stimmt ganz,1,Ja,1,Stimmt gar nicht,Nein,0,Nein,4,Stimmt,1,100 CHF,2
+179,2022,17,3,Weiblich,3h-4h,4,16,Stimmt gar nicht,4,Nein,0,Stimmt eher nicht,Ja,1,eher Ja,2,Stimmt eher ,2,100 CHF,2
+180,2022,16,3,Weiblich,3h-4h,4,16,Stimmt eher,2,Nein,0,Stimmt gar nicht,Nein,0,eher Ja,2,Stimmt,1,50 CHF,2
+181,2022,18,4,Maennlich,Mehr als 5h,6,36,Stimmt eher,2,Nein,0,Stimmt eher,Ja,1,Ja,1,Stimmt eher ,2,Wuerde ich auch gratis machen,0
+182,2022,17,3,Non-Binaer,3h-4h,4,16,Stimmt eher,2,Ja,1,Stimmt eher,Ja,1,eher Nein,3,Stimmt eher nicht,3,50 CHF,2
+183,2022,16,3,Non-Binaer,2h-3h,3,9,Stimmt eher,2,Nein,0,Stimmt gar nicht,Nein,0,eher Ja,2,Stimmt,1,100 CHF,2
+184,2022,16,3,Maennlich,1h-2h,2,4,Stimmt eher,2,Ja,1,Stimmt eher,Ja,1,eher Ja,2,Stimmt,1,20 CHF,1
+185,2022,16,3,Weiblich,4h-5h,5,25,Stimmt eher,2,Nein,0,Stimmt gar nicht,Ja,1,Ja,1,Stimmt,1,ueber 100 CHF,3
+186,2022,17,3,Maennlich,1h-2h,2,4,Stimmt eher,2,Nein,0,Stimmt eher nicht,Ja,1,Nein,4,Stimmt,1,ueber 100 CHF,3
+187,2022,16,3,Weiblich,4h-5h,5,25,Stimmt eher nicht,3,Nein,0,Stimmt gar nicht,Nein,0,Ja,1,Stimmt eher nicht,3,50 CHF,2
+188,2022,16,3,Weiblich,3h-4h,4,16,Stimmt ganz,1,Ja,1,Stimmt eher,Nein,1,eher Ja,2,Stimmt eher ,2,100 CHF,2
+189,2022,16,3,Maennlich,3h-4h,4,16,Stimmt eher nicht,3,Nein,0,Stimmt eher nicht,Ja,1,eher Ja,2,Stimmt eher ,2,100 CHF,2
+190,2022,15,2,Weiblich,weniger als 1h,1,1,Stimmt eher,2,Ja,1,Stimmt gar nicht,Ja,1,Nein,4,Stimmt,1,Wuerde ich auch gratis machen,0
+191,2022,17,3,Weiblich,4h-5h,5,25,Stimmt eher nicht,3,Ja,1,Stimmt gar nicht,Ja,1,eher Nein,3,Stimmt eher nicht,3,100 CHF,2
+192,2022,15,2,Weiblich,2h-3h,3,9,Stimmt eher,2,Nein,0,Stimmt gar nicht,Nein,0,eher Ja,2,Stimmt eher nicht,3,ueber 100 CHF,3
+193,2022,55,6,Maennlich,1h-2h,2,4,Stimmt eher nicht,3,Ja,1,Stimmt eher,Ja,1,Ja,1,Stimmt eher nicht,3,ueber 100 CHF,3
+194,2022,24,5,Weiblich,2h-3h,3,9,Stimmt eher nicht,3,Nein,0,Stimmt gar nicht,Nein,0,Ja,1,Stimmt,1,Wuerde ich auch gratis machen,0
+195,2022,16,3,Weiblich,1h-2h,2,4,Stimmt eher,2,Nein,0,Stimmt eher nicht,Ja,1,Nein,4,Stimmt,1,100 CHF,2
+196,2022,14,2,Maennlich,1h-2h,2,4,Stimmt ganz,1,Nein,0,Stimmt eher,Ja,1,Nein,4,Stimmt,1,Wuerde ich auch gratis machen,0
+197,2022,49,6,Weiblich,1h-2h,2,4,Stimmt gar nicht,4,Ja,1,Stimmt gar nicht,Nein,0,Nein,4,Stimmt,1,Wuerde ich auch gratis machen,0

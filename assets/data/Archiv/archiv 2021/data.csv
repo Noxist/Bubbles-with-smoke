@@ -1,0 +1,58 @@
+﻿id,alter,kategoriealter,geschlecht,bsz,bszkat,bszkat2,game,nachttisch,nachttischkat,tagohne,tagohnekat,sorgen,sorgenkat
+4,30,6,Maennlich,2h-3h,3,9,Call of Duty,Ja,1,Stimmt,1,Stimmt ganz,1
+5,15,2,Maennlich,4h-5h,5,25,Fifa,Nein,4,Stimmt eher ,2,Stimmt gar nicht,4
+6,14,2,Maennlich,4h-5h,5,25,League of Legends,Ja,1,Stimmt nicht,4,Stimmt eher,2
+7,15,2,Maennlich,4h-5h,5,25,Clash of Clans,Ja,1,Stimmt eher ,2,Stimmt eher,2
+8,32,6,Maennlich,1h-2h,2,4,Clash of Clans,Ja,1,Stimmt eher nicht,3,Stimmt ganz,1
+9,16,3,Weiblich,2h-3h,3,9,League of Legends,Nein,4,Stimmt,1,Stimmt eher,2
+10,16,3,Maennlich,3h-4h,4,16,Clash of Clans,Ja,1,Stimmt eher ,2,Stimmt eher nicht,3
+11,16,3,Maennlich,4h-5h,5,25,Call of Duty,eher Nein,3,Stimmt,1,Stimmt eher,2
+12,18,4,Maennlich,2h-3h,3,9,Call of Duty,eher Nein,3,Stimmt,1,Stimmt eher nicht,3
+13,18,4,Maennlich,Mehr als 5h,6,36,Fifa,Ja,1,Stimmt,1,Stimmt eher nicht,3
+14,18,4,Maennlich,3h-4h,4,16,Clash of Clans,eher Ja,2,Stimmt,1,Stimmt eher nicht,3
+15,16,3,Weiblich,4h-5h,5,25,Clash of Clans,eher Ja,2,Stimmt eher nicht,3,Stimmt eher nicht,3
+16,21,5,Maennlich,3h-4h,4,16,Fifa,eher Ja,2,Stimmt,1,Stimmt eher nicht,3
+17,17,3,Maennlich,Mehr als 5h,6,36,Fifa,Ja,1,Stimmt eher nicht,3,Stimmt eher nicht,3
+18,20,5,Weiblich,1h-2h,2,4,Clash of Clans,eher Ja,2,Stimmt,1,Stimmt eher,2
+19,16,3,Weiblich,2h-3h,3,9,Fifa,eher Nein,3,Stimmt,1,Stimmt eher nicht,3
+20,17,3,Maennlich,Mehr als 5h,6,36,Fifa,eher Ja,2,Stimmt,1,Stimmt eher,2
+21,16,3,Maennlich,2h-3h,3,9,League of Legends,eher Nein,3,Stimmt,1,Stimmt eher nicht,3
+22,19,4,Weiblich,4h-5h,5,25,Clash of Clans,eher Ja,2,Stimmt,1,Stimmt eher,2
+23,16,3,Weiblich,2h-3h,3,9,Fifa,Ja,1,Stimmt,1,Stimmt eher,2
+24,18,4,Weiblich,3h-4h,4,16,Call of Duty,Nein,4,Stimmt nicht,4,Stimmt eher,2
+25,20,5,Weiblich,3h-4h,4,16,League of Legends,Ja,1,Stimmt,1,Stimmt eher,2
+26,17,3,Weiblich,1h-2h,2,4,Fifa,Nein,4,Stimmt,1,Stimmt eher,2
+27,42,6,Maennlich,weniger als 1h,1,1,Clash of Clans,eher Nein,3,Stimmt eher ,2,Stimmt eher,2
+28,18,4,Maennlich,2h-3h,3,9,Call of Duty,Ja,1,Stimmt nicht,4,Stimmt gar nicht,4
+29,16,3,Maennlich,2h-3h,3,9,Clash of Clans,Nein,4,Stimmt,1,Stimmt eher nicht,3
+30,17,3,Weiblich,2h-3h,3,9,League of Legends,Ja,1,Stimmt,1,Stimmt eher,2
+31,18,4,Maennlich,2h-3h,3,9,League of Legends,eher Ja,2,Stimmt eher ,2,Stimmt eher nicht,3
+32,16,3,Maennlich,Mehr als 5h,6,36,Fifa,eher Ja,2,Stimmt eher ,2,Stimmt eher nicht,3
+33,16,3,Weiblich,3h-4h,4,16,League of Legends,Ja,1,Stimmt eher nicht,3,Stimmt eher nicht,3
+34,17,3,Weiblich,Mehr als 5h,6,36,Call of Duty,Ja,1,Stimmt eher ,2,Stimmt eher nicht,3
+35,17,3,Weiblich,1h-2h,2,4,Clash of Clans,eher Nein,3,Stimmt,1,Stimmt eher,2
+36,16,3,Weiblich,3h-4h,4,16,Clash of Clans,Ja,1,Stimmt eher nicht,3,Stimmt eher,2
+37,17,3,Maennlich,2h-3h,3,9,Clash of Clans,eher Ja,2,Stimmt eher nicht,3,Stimmt eher nicht,3
+38,16,3,Maennlich,4h-5h,5,25,Fifa,Ja,1,Stimmt eher ,2,Stimmt eher nicht,3
+39,16,3,Maennlich,3h-4h,4,16,League of Legends,Ja,1,Stimmt,1,Stimmt gar nicht,4
+40,15,2,Maennlich,1h-2h,2,4,Clash of Clans,eher Ja,2,Stimmt eher ,2,Stimmt eher nicht,3
+41,16,3,Weiblich,2h-3h,3,9,Call of Duty,Nein,4,Stimmt eher nicht,3,Stimmt eher nicht,3
+42,17,3,Maennlich,3h-4h,4,16,Clash of Clans,eher Ja,2,Stimmt,1,Stimmt ganz,1
+43,19,4,Maennlich,3h-4h,4,16,Fifa,Ja,1,Stimmt eher nicht,3,Stimmt gar nicht,4
+44,16,3,Weiblich,3h-4h,4,16,Clash of Clans,Nein,4,Stimmt nicht,4,Stimmt eher nicht,3
+45,16,3,Maennlich,2h-3h,3,9,League of Legends,eher Ja,2,Stimmt eher ,2,Stimmt eher,2
+46,16,3,Weiblich,Mehr als 5h,6,36,Fifa,Ja,1,Stimmt nicht,4,Stimmt eher nicht,3
+47,17,3,Weiblich,Mehr als 5h,6,36,League of Legends,eher Ja,2,Stimmt,1,Stimmt eher,2
+48,17,3,Maennlich,4h-5h,5,25,Clash of Clans,Ja,1,Stimmt eher ,2,Stimmt eher nicht,3
+49,15,2,Maennlich,4h-5h,5,25,League of Legends,eher Ja,2,Stimmt,1,Stimmt eher,2
+50,16,3,Weiblich,Mehr als 5h,6,36,League of Legends,eher Nein,3,Stimmt eher ,2,Stimmt ganz,1
+51,16,3,Non-Binaer,Mehr als 5h,6,36,Call of Duty,Ja,1,Stimmt nicht,4,Stimmt eher nicht,3
+52,22,5,Maennlich,2h-3h,3,9,Fifa,eher Nein,3,Stimmt eher ,2,Stimmt eher,2
+53,14,2,Weiblich,Mehr als 5h,6,36,Call of Duty,eher Ja,2,Stimmt eher ,2,Stimmt gar nicht,4
+54,16,3,Weiblich,2h-3h,3,9,Clash of Clans,Ja,1,Stimmt eher nicht,3,Stimmt eher,2
+55,17,3,Maennlich,1h-2h,2,4,Fifa,Ja,1,Stimmt,1,Stimmt eher nicht,3
+56,18,4,Maennlich,Mehr als 5h,6,36,Fifa,Ja,1,Stimmt eher nicht,3,Stimmt gar nicht,4
+57,17,3,Maennlich,2h-3h,3,9,Fifa,Ja,1,Stimmt eher ,2,Stimmt eher nicht,3
+58,51,6,Weiblich,3h-4h,4,16,Fifa,eher Ja,2,Stimmt eher ,2,Stimmt ganz,1
+59,55,6,Maennlich,weniger als 1h,1,1,Call of Duty,eher Nein,3,Stimmt eher nicht,3,Stimmt eher,2
+60,16,3,Maennlich,1h-2h,2,4,Call of Duty,eher Ja,2,Stimmt,1,Stimmt eher,2
