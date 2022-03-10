@@ -184,7 +184,79 @@ var agecatCenters = { // Center locations of the bubbles.
     'Stimmt eher nicht': 70, 
     'Stimmt nicht': 70
   };  
+    // Sechster Button: Geldentschädigung
     
+    
+  var moneyCenters = { // Center locations of the bubbles. 
+    '0': { x: 220, y: height / 2  },
+    '1': { x: 420, y: height / 2  },
+    '2': { x: 600, y: height / 2  },
+    '3': { x: 770, y: height / 2  }
+
+  };
+
+  var moneyTitleX = {  // X locations of the year titles.
+    '"Anonymous wanted this title LMAO"': 500,
+    'ohne Entschädigung': 100,
+    '5CHF bis 50CHF': 350, 
+    '50CHF bis 100CHF': 700, 
+    'Mehr als 100CHF': 900  
+  };
+    
+  var moneyTitleY = {  // Y locations of the year titles.
+    '"Entschädigung für eine Woche Handyfrei"': 35, 
+    'ohne Entschädigung': 70,
+    '5CHF bis 50CHF': 70, 
+    '50CHF bis 100CHF': 70, 
+    'Mehr als 100CHF': 70
+  };  
+   
+    //Siebter Button: Sicherer Messenger
+    
+    var msgCenters = { // Center locations of the bubbles. 
+    '0': { x: 350, y: height / 2  },
+    '1': { x: 750, y: height / 2  }
+   
+
+  };
+
+  var msgTitleX = {  // X locations of the year titles.
+    '"Braucht sicherern Messenger(Threema oder Signal)"': 500,
+    'Nein': 325,
+    'Ja': 800
+ 
+  };
+    
+  var msgTitleY = {  // Y locations of the year titles.
+    '"Braucht sicherern Messenger(Threema oder Signal)"': 35, 
+    'Nein': 70,
+    'Ja': 70 
+
+  };  
+  
+  
+  //Achter Button: Sicherer Messenger
+    
+    var cosCenters = { // Center locations of the bubbles. 
+    '0': { x: 350, y: height / 2  },
+    '1': { x: 750, y: height / 2  }
+   
+
+  };
+
+  var cosTitleX = {  // X locations of the year titles.
+    '"Löscht Cookies oder verwendet Vpn, Antitrack, Adblocker"': 500,
+    'Nein': 325,
+    'Ja': 800
+ 
+  };
+    
+  var cosTitleY = {  // Y locations of the year titles.
+    '"Löscht Cookies oder verwendet Vpn, Antitrack, Adblocker"': 35, 
+    'Nein': 70,
+    'Ja': 70 
+
+  };  
     
     
 //* ------------------------------------------------------------------
@@ -255,7 +327,14 @@ var agecatCenters = { // Center locations of the bubbles.
         concern: d.sorgenkat,  
         concerntext: d.sorgen,
         
-         
+        money: d.geldeinewochekat,  
+        moneytext: d.geldeinewoche, 
+        
+        msg: d.securemessengerkat,  
+        msgtext: d.securemessenger,
+        
+        cos: d.cookiesoderschutz,  
+        costext: d.schutzmechanismen,
         
         x: Math.random() * 900,
         y: Math.random() * 800
@@ -352,9 +431,12 @@ var agecatCenters = { // Center locations of the bubbles.
     hideAgecat();
     hideSex();
     hideScreentime();
-    hideConcern();  
-    
-    force.on('tick', function (e) {
+    hideConcern();
+    hideMoney();
+    hideMsg();
+    hideCos();
+   
+      force.on('tick', function (e) {
       bubbles.each(moveToCenter(e.alpha))
         .attr('cx', function (d) { return d.x; })
         .attr('cy', function (d) { return d.y; });
@@ -395,6 +477,10 @@ Die Positionierung basiert auf dem alpha Parameter des force layouts und wird kl
     hideSex();
     hideConcern();
     hideScreentime();
+    hideMoney();
+    hideMsg();
+    hideCos();
+
 
     force.on('tick', function (e) {
       bubbles.each(moveToYear(e.alpha))
@@ -443,6 +529,10 @@ function moveToYear(alpha) {
     hideSex();
     hideConcern();
     hideScreentime();
+    hideMoney();
+    hideMsg();
+    hideCos();
+
 
     force.on('tick', function (e) {
       bubbles.each(moveToAgecat(e.alpha))
@@ -491,7 +581,9 @@ function moveToAgecat(alpha) {
     hideAgecat();
     hideConcern();
     hideScreentime();
-
+    hideMoney();
+    hideMsg();
+    hideCos();
     force.on('tick', function (e) {
       bubbles.each(moveToSex(e.alpha))
         .attr('cx', function (d) { return d.x; })
@@ -539,7 +631,9 @@ function moveToAgecat(alpha) {
     hideSex();
     hideAgecat();
     hideConcern();
-
+    hideMoney();
+    hideMsg();
+    hideCos();
     force.on('tick', function (e) {
       bubbles.each(moveToScreentime(e.alpha))
         .attr('cx', function (d) { return d.x; })
@@ -576,147 +670,321 @@ function moveToAgecat(alpha) {
     }    
 
     
-//* ------------------------------------------------------------------
-//
-// Sorgen
-//
-// -----------------------------------------------------------------*/
-    
-  function splitBubblesintoConcern() {
-    showConcern();
-    hideYear();
-    hideSex();
-    hideAgecat();
-    hideScreentime();
+    //* ------------------------------------------------------------------
+    //
+    // Sorgen
+    //
+    // -----------------------------------------------------------------*/
 
-    force.on('tick', function (e) {
-      bubbles.each(moveToConcern(e.alpha))
-        .attr('cx', function (d) { return d.x; })
-        .attr('cy', function (d) { return d.y; });
-    });
+      function splitBubblesintoConcern() {
+        showConcern();
+        hideYear();
+        hideSex();
+        hideAgecat();
+        hideScreentime();
+        hideMoney();
+        hideMsg();
+        hideCos();
+          
+        force.on('tick', function (e) {
+          bubbles.each(moveToConcern(e.alpha))
+            .attr('cx', function (d) { return d.x; })
+            .attr('cy', function (d) { return d.y; });
+        });
 
-    force.start();
-  }
+        force.start();
+      }
 
-  function moveToConcern(alpha) {
-    return function (d) {
-      var target = concernCenters[d.concern];
-      d.x = d.x + (target.x - d.x) * damper * alpha * 1.1;
-      d.y = d.y + (target.y - d.y) * damper * alpha * 1.1;
-    };
-  }
+      function moveToConcern(alpha) {
+        return function (d) {
+          var target = concernCenters[d.concern];
+          d.x = d.x + (target.x - d.x) * damper * alpha * 1.1;
+          d.y = d.y + (target.y - d.y) * damper * alpha * 1.1;
+        };
+      }
 
-  function hideConcern() {
-    svg.selectAll('.concern').remove();
-  }
+      function hideConcern() {
+        svg.selectAll('.concern').remove();
+      }
 
-  function showConcern() {
+      function showConcern() {
 
-    var concernData = d3.keys(concernTitleX);
-    var concern = svg.selectAll('.concern')
-      .data(concernData);
+        var concernData = d3.keys(concernTitleX);
+        var concern = svg.selectAll('.concern')
+          .data(concernData);
 
-    concern.enter().append('text')
-      .attr('class', 'concern')
-      .attr('x', function (d) { return concernTitleX[d]; })
-      .attr('y', function (d) { return concernTitleY[d]; })
-      .attr('text-anchor', 'middle')
-      .text(function (d) { return d; });
+        concern.enter().append('text')
+          .attr('class', 'concern')
+          .attr('x', function (d) { return concernTitleX[d]; })
+          .attr('y', function (d) { return concernTitleY[d]; })
+          .attr('text-anchor', 'middle')
+          .text(function (d) { return d; });
+        }
+
+    //* ------------------------------------------------------------------
+    //
+    // Money
+    //
+    // -----------------------------------------------------------------*/
+
+      function splitBubblesintoMoney() {
+        showMoney();
+        hideYear();
+        hideSex();
+        hideAgecat();
+        hideScreentime();
+        hideConcern();
+        hideMsg();
+        hideCos();
+          
+        force.on('tick', function (e) {
+          bubbles.each(moveToMoney(e.alpha))
+            .attr('cx', function (d) { return d.x; })
+            .attr('cy', function (d) { return d.y; });
+        });
+
+        force.start();
+      }
+
+      function moveToMoney(alpha) {
+        return function (d) {
+          var target = moneyCenters[d.money];
+          d.x = d.x + (target.x - d.x) * damper * alpha * 1.1;
+          d.y = d.y + (target.y - d.y) * damper * alpha * 1.1;
+        };
+      }
+
+      function hideMoney() {
+        svg.selectAll('.money').remove();
+      }
+
+      function showMoney() {
+
+        var moneyData = d3.keys(moneyTitleX);
+        var money = svg.selectAll('.money')
+          .data(moneyData);
+
+        money.enter().append('text')
+          .attr('class', 'money')
+          .attr('x', function (d) { return moneyTitleX[d]; })
+          .attr('y', function (d) { return moneyTitleY[d]; })
+          .attr('text-anchor', 'middle')
+          .text(function (d) { return d; });
+        }
+ //* ------------------------------------------------------------------
+    //
+    // Msg
+    //
+    // -----------------------------------------------------------------*/
+
+      function splitBubblesintoMsg() {
+        showMsg();
+        hideYear();
+        hideSex();
+        hideAgecat();
+        hideScreentime();
+        hideConcern();
+        hideMoney();
+          hideCos();
+        
+        force.on('tick', function (e) {
+          bubbles.each(moveToMsg(e.alpha))
+            .attr('cx', function (d) { return d.x; })
+            .attr('cy', function (d) { return d.y; });
+        });
+
+        force.start();
+      }
+
+      function moveToMsg(alpha) {
+        return function (d) {
+          var target = msgCenters[d.msg];
+          d.x = d.x + (target.x - d.x) * damper * alpha * 1.1;
+          d.y = d.y + (target.y - d.y) * damper * alpha * 1.1;
+        };
+      }
+
+      function hideMsg() {
+        svg.selectAll('.msg').remove();
+      }
+
+      function showMsg() {
+
+        var msgData = d3.keys(msgTitleX);
+        var msg = svg.selectAll('.msg')
+          .data(msgData);
+
+        msg.enter().append('text')
+          .attr('class', 'msg')
+          .attr('x', function (d) { return msgTitleX[d]; })
+          .attr('y', function (d) { return msgTitleY[d]; })
+          .attr('text-anchor', 'middle')
+          .text(function (d) { return d; });
+        }
+
+ //* ------------------------------------------------------------------
+    //
+    // Cos
+    //
+    // -----------------------------------------------------------------*/
+
+      function splitBubblesintoCos() {
+        showCos();
+        hideYear();
+        hideSex();
+        hideAgecat();
+        hideScreentime();
+        hideConcern();
+        hideMoney();
+        hideMsg();
+        
+        force.on('tick', function (e) {
+          bubbles.each(moveToCos(e.alpha))
+            .attr('cx', function (d) { return d.x; })
+            .attr('cy', function (d) { return d.y; });
+        });
+
+        force.start();
+      }
+
+      function moveToCos(alpha) {
+        return function (d) {
+          var target = cosCenters[d.cos];
+          d.x = d.x + (target.x - d.x) * damper * alpha * 1.1;
+          d.y = d.y + (target.y - d.y) * damper * alpha * 1.1;
+        };
+      }
+
+      function hideCos() {
+        svg.selectAll('.cos').remove();
+      }
+
+      function showCos() {
+
+        var cosData = d3.keys(cosTitleX);
+        var cos = svg.selectAll('.cos')
+          .data(cosData);
+
+        cos.enter().append('text')
+          .attr('class', 'cos')
+          .attr('x', function (d) { return cosTitleX[d]; })
+          .attr('y', function (d) { return cosTitleY[d]; })
+          .attr('text-anchor', 'middle')
+          .text(function (d) { return d; });
+        }
+
+
+    //* ------------------------------------------------------------------
+    //
+    // WISSENSCHAFTSWOCHE F
+    //
+    // Wechselfunktion anpassen. Wenn Sie neue Ansichtne hinzufügen, dann unten einen "else if"-Block kopieren und anpassen. 
+    //
+    // -----------------------------------------------------------------*/      
+
+    //* ------------------------------------------------------------------
+    //
+    // Teil 11 - Wechseln zwischen den Ansichten
+    //
+    // -----------------------------------------------------------------*/
+
+      /* Externally accessible function (this is attached to the returned chart function). Allows the visualization to toggle between "single group" and "split by ..." modes. */
+
+      chart.toggleDisplay = function (displayName) {
+        if (displayName === 'year') {
+          splitBubblesintoYear();
+        } else if (displayName === 'agecat') {
+          splitBubblesintoAgecat();
+        } else if (displayName === 'sex') {
+          splitBubblesintoSex();
+        } else if (displayName === 'concern') {
+          splitBubblesintoConcern();
+        } else if (displayName === 'screentime') {
+          splitBubblesintoScreentime();
+         } else if (displayName === 'money') {
+          splitBubblesintoMoney();
+        } else if (displayName === 'msg') {
+          splitBubblesintoMsg();
+        } else if (displayName === 'cos') {
+          splitBubblesintoCos();
+        } else {
+          groupBubbles();
+        }
+      };
+
+      return chart;
     }
 
-    
-//* ------------------------------------------------------------------
-//
-// WISSENSCHAFTSWOCHE F
-//
-// Wechselfunktion anpassen. Wenn Sie neue Ansichtne hinzufügen, dann unten einen "else if"-Block kopieren und anpassen. 
-//
-// -----------------------------------------------------------------*/      
-    
-//* ------------------------------------------------------------------
-//
-// Teil 11 - Wechseln zwischen den Ansichten
-//
-// -----------------------------------------------------------------*/
-    
-  /* Externally accessible function (this is attached to the returned chart function). Allows the visualization to toggle between "single group" and "split by ..." modes. */
+    // Ende der Funktion
 
-  chart.toggleDisplay = function (displayName) {
-    if (displayName === 'year') {
-      splitBubblesintoYear();
-    } else if (displayName === 'agecat') {
-      splitBubblesintoAgecat();
-    } else if (displayName === 'sex') {
-      splitBubblesintoSex();
-    } else if (displayName === 'concern') {
-      splitBubblesintoConcern();
-    } else if (displayName === 'screentime') {
-      splitBubblesintoScreentime();
-    } else {
-      groupBubbles();
-    }
-  };
-    
-  return chart;
-}
-
-// Ende der Funktion
-
-//* ------------------------------------------------------------------
-//
-// Teil 12 - Tooltip
-//
-// -----------------------------------------------------------------*/
+    //* ------------------------------------------------------------------
+    //
+    // Teil 12 - Tooltip
+    //
+    // -----------------------------------------------------------------*/
 
 
-//* ------------------------------------------------------------------
-//
-// WISSENSCHAFTSWOCHE H
-//
-// Tooltips anpassen
-//
-// -----------------------------------------------------------------*/    
+    //* ------------------------------------------------------------------
+    //
+    // WISSENSCHAFTSWOCHE H
+    //
+    // Tooltips anpassen
+    //
+    // -----------------------------------------------------------------*/    
 
-  // Tooltip für Mousover
-  var tooltip2 = floatingtooltip2('gates_tooltip2', 240);
+      // Tooltip für Mousover
+      var tooltip2 = floatingtooltip2('gates_tooltip2', 240);
 
-  var fillColor = d3.scale.ordinal()
-    .domain(['1','2','3', '4','5','6'])
-    .range(['#F7CAD0', '#ADE8F4', '#48CAE4', '#0096C7','#023E8A','#03045E']);
+      var fillColor = d3.scale.ordinal()
+        .domain(['1','2','3', '4','5','6'])
+        .range(['#', '#F9F7DC', '#D7E2A1', '#F5B392','#D19475','#8A6C60']);
 
-  /* Tooltip-Funktion*/
-  function showDetail(d) {
+      /* Tooltip-Funktion*/
+      function showDetail(d) {
 
-    d3.select(this).attr('stroke', 'black');
+        d3.select(this).attr('stroke', 'black');
 
-    var content = '<span class="name">Alter: </span><span class="value">' +
-                  d.age +
-                  '</span><br/>' +
-                  '<span class="name">Geschlecht: </span><span class="value">' +
-                  d.sex +
-                  '</span><br/>' +
-                  '<span class="name">Bildschirmzeit: </span><span class="value">' +
-                  d.screentime +
-                  '</span><br/>' +
-                  '<span class="name">"Ich mache mir Sorgen um meine Daten": </span><span class="value">' +
-                  d.concerntext +
-                  '</span><br/>' +
-                  '<span class="name">"Umfragejahr": </span><span class="value">' +
-                  d.year +
-                  '</span>';
-    tooltip2.showtooltip2(content, d3.event);
-  }
+        var content = '<span class="name">Alter: </span><span class="value">' +
+                      d.age +
+                      '</span><br/>' +
+                      '<span class="name">Geschlecht: </span><span class="value">' +
+                      d.sex +
+                      '</span><br/>' +
+                      '<span class="name">Bildschirmzeit: </span><span class="value">' +
+                      d.screentime +
+                      '</span><br/>' +
+                      '<span class="name">"Ich mache mir Sorgen um meine Daten": </span><span class="value">' +
+                      d.concerntext +
+                      '</span><br/>' +
+                      '<span class="name">"Sicherer Messenger": </span><span class="value">' +
+                      d.msgtext +
+                    '</span><br/>' +
+            
+                      '<span class="name">"Handyfreie Woche?": </span><span class="value">' +
+                      d.moneytext +
+                      '</span><br/>' +
+            
+                      '<span class="name">"Umfragejahr": </span><span class="value">' +
+                      d.year +
+                      '</span><br/>' +
+          
+          
+                       '<span class="name">"Schutzmassnahmen": </span><span class="value">' +
+                      d.costext +
+                      '</span>';
+        tooltip2.showtooltip2(content, d3.event);
+      }
 
-  function hideDetail(d) { // tooltip verstecken
+      function hideDetail(d) { // tooltip verstecken
 
-      
-//* ------------------------------------------------------------------
-//
-// WISSENSCHAFTSWOCHE I
-//
-// Farben anpassen: hier Variable definiere, weiter oben (ca. Zeile 500) die Farben konkret anpassen. 
-//
-// -----------------------------------------------------------------*/    
+
+    //* ------------------------------------------------------------------
+    //
+    // WISSENSCHAFTSWOCHE I
+    //
+    // Farben anpassen: hier Variable definiere, weiter oben (ca. Zeile 500) die Farben konkret anpassen. 
+    //
+    // -----------------------------------------------------------------*/    
       
     d3.select(this)
       .attr('stroke', d3.rgb(fillColor(d.agecat)).darker());

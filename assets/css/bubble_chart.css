@@ -2,7 +2,7 @@
 
 /*--- Font size der Texte ----*/
 
-.year, .age {
+.year, .agecat, .cos, .sex, .msg, .bsz, .concern, .money, .screentime  {
   font-size: 18px;
   fill: #000000;
   cursor: default;
